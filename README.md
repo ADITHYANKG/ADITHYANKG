@@ -5,17 +5,25 @@
 
 I build scalable backend systems, intelligent AI agents, and automation solutions. I'm passionate about developing production-ready applications and exploring modern AI technologies.
 
+
 ## 🛠️ Tech Stack
 
-**Languages:** Python, Ruby, JavaScript, SQL
+### Languages & Backend
+![Skills](https://skillicons.dev/icons?i=python,fastapi,django,ruby,rails,js)
 
-**Backend:** FastAPI, Django, Ruby on Rails, REST APIs
+### AI & Machine Learning
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- LangChain & LangGraph
+- Model Context Protocol (MCP)
+- AI Agents & Tool Calling
 
-**AI & Machine Learning:** LangChain, LangGraph, RAG, LLMs, AI Agents, MCP
+### Databases
+![Databases](https://skillicons.dev/icons?i=postgres,mysql,redis)
 
-**Databases:** PostgreSQL, MySQL, Redis, pgvector
+### DevOps & Cloud
+![DevOps](https://skillicons.dev/icons?i=docker,aws,linux,git,github,jenkins)
 
-**DevOps & Cloud:** Docker, Jenkins, Linux, Git, AWS
 
 ## 🚀 What I'm Working On
 
