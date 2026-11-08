@@ -9,7 +9,7 @@ I build scalable backend systems, intelligent AI agents, and automation solution
 ## 🛠️ Tech Stack
 
 ### Languages & Backend
-![Skills](https://skillicons.dev/icons?i=python,fastapi,django,ruby,rails,js)
+![Skills](https://skillicons.dev/icons?i=python,fastapi,js)
 
 ### AI & Machine Learning
 - Large Language Models (LLMs)
