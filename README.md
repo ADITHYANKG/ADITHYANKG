@@ -42,9 +42,5 @@ I build scalable backend systems, intelligent AI agents, and automation solution
 Explore my repositories to see my projects, experiments, and engineering work.
 
 
-## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ADITHYANKG&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ADITHYANKG&layout=compact&theme=github_dark)
 
