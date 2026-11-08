@@ -18,6 +18,20 @@ I build scalable backend systems, intelligent AI agents, and automation solution
 - Model Context Protocol (MCP)
 - AI Agents & Tool Calling
 
+<h3>🤖 AI & Machine Learning</h3>
+
+<p>
+  <img src="https://cdn.simpleicons.org/langchain/1C9A74" height="40" alt="LangChain" />
+  <img src="https://cdn.simpleicons.org/langgraph/1C9A74" height="40" alt="LangGraph" />
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="40" alt="Hugging Face" />
+  <img src="https://cdn.simpleicons.org/openai/10A37F" height="40" alt="OpenAI" />
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="PyTorch" />
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" alt="TensorFlow" />
+</p>
+
+**Specializations:** LLMs · RAG · MCP · AI Agents ·
+Tool Calling · Prompt Engineering
+
 ### Databases
 ![Databases](https://skillicons.dev/icons?i=postgres,mysql,redis)
 
