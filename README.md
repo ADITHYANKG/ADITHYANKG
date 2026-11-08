@@ -34,7 +34,10 @@ I build scalable backend systems, intelligent AI agents, and automation solution
 
 ## 🌐 Portfolio
 
-[Visit My Portfolio](https://adithyankg-portfolio.netlify.app/)
+### Personal Portfolio
+My developer portfolio showcasing projects, experience, and technical skills.
+
+[Live Website](https://adithyankg-portfolio.netlify.app/)
 
 ## 📫 Connect
 
